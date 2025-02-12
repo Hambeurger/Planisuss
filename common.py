@@ -1,0 +1,4 @@
+#common.py
+NEIGHBORHOOD = 1
+MEMORY_LENGTH = 10
+AGING = 5
